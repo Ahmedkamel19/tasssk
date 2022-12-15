@@ -1,0 +1,14 @@
+body{
+    background-image: url(./imgs/ameer-basheer-gV6taBJuBTk-unsplash\ \(1\).jpg);
+    background-size: cover;
+}
+
+.card{
+    background-image: url(./imgs/f50524ee5f161f437400aaf215c9e12f.jpg);
+    background-position: center;
+    text-align: center; margin-left: 550PX;
+    margin-right: 550px;
+    margin-top: 200px;
+    
+    ;
+}
